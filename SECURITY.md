@@ -1,4 +1,28 @@
-# Security Policy
+# Sicherheit
+
+OpenLEG verarbeitet Smart-Meter-Daten von Bürgerinnen und Bürgern. Das nehmen wir ernst, darum behandeln wir Sicherheitsmeldungen mit Vorrang.
+
+## Eine Schwachstelle melden
+
+Öffne für ein Sicherheitsproblem kein öffentliches Issue. Schreib an **hallo@openleg.ch** mit den Details:
+
+- was du gefunden hast und wo,
+- wie man es reproduziert,
+- welchen Schaden du erwartest.
+
+Wir bestätigen den Eingang innert weniger Arbeitstage und halten dich auf dem Laufenden, bis es behoben ist. Nach dem Fix nennen wir dich gern als Finderin oder Finder, ausser du möchtest anonym bleiben.
+
+## Geltungsbereich
+
+Alles im OpenLEG-Code und in den Diensten, die wir betreiben: die Flask-App, die API, die Datenbankschicht und die Deployment-Vorlagen in dieser Organisation.
+
+## Unsere Datenlinie
+
+Smart-Meter-Daten bleiben in der jeweiligen lokalen Elektrizitätsgemeinschaft. Wir verkaufen sie nicht und bündeln sie nicht für Dritte. Eine Meldung, die solche Daten freilegt, ist die schwerwiegendste, die wir kennen.
+
+---
+
+# Security Policy (English)
 
 OpenLEG handles citizen smart-meter data. We take that seriously, so security reports get priority.
 
