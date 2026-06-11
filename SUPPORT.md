@@ -1,4 +1,17 @@
-# Support
+# Hilfe
+
+Brauchst du Hilfe mit OpenLEG? Hier findest du sie.
+
+- **Ein Bug oder ein konkretes Problem**: öffne ein Issue im passenden Repository.
+- **Eine Frage oder eine Idee**: starte eine Discussion, oder öffne ein Issue mit dem Label `question`.
+- **Du planst eine echte LEG und kommst nicht weiter**: schreib an **hallo@openleg.ch** und nenn uns deine Gemeinde und dein Ziel.
+- **Ein Sicherheitsproblem**: bitte nicht öffentlich posten, siehe `SECURITY.md`.
+
+Wir sind ein kleines Open-Source-Projekt, Antworten brauchen also etwas Zeit. Klare Schritte und Kontext bringen dir eine schnellere Antwort.
+
+---
+
+# Support (English)
 
 Need help with OpenLEG? Here is where to go.
 
