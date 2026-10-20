@@ -1,72 +1,40 @@
 # OpenLEG
 
-[![Tests](https://img.shields.io/github/actions/workflow/status/Open-LEG-ch/openleg/deploy.yml?branch=main&label=tests&style=flat-square)](https://github.com/Open-LEG-ch/openleg/actions/workflows/deploy.yml)
-[![Lint](https://img.shields.io/github/actions/workflow/status/Open-LEG-ch/openleg/lint.yml?branch=main&label=lint&style=flat-square)](https://github.com/Open-LEG-ch/openleg/actions/workflows/lint.yml)
-[![Security](https://img.shields.io/github/actions/workflow/status/Open-LEG-ch/openleg/secret-scan.yml?branch=main&label=security&style=flat-square)](https://github.com/Open-LEG-ch/openleg/actions/workflows/secret-scan.yml)
-[![License](https://img.shields.io/github/license/Open-LEG-ch/openleg?style=flat-square)](https://github.com/Open-LEG-ch/openleg/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/Open-LEG-ch/openleg/main?style=flat-square)](https://github.com/Open-LEG-ch/openleg/commits/main)
-[![Issues](https://img.shields.io/github/issues/Open-LEG-ch/openleg?style=flat-square)](https://github.com/Open-LEG-ch/openleg/issues)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Open-LEG-ch/openleg/main/.github/assets/openleg-wordmark.svg" alt="OpenLEG" width="320">
+</p>
 
-Strom aus der Nachbarschaft, fair geteilt. [OpenLEG](https://openleg.ch) ist freie Open-Source-Software für Lokale Elektrizitätsgemeinschaften (LEG) in der Schweiz.
+**Deutsch**
 
-Eine LEG lässt Haushalte, Gewerbe und Gemeinden Solarstrom direkt untereinander teilen. Das senkt die Stromrechnung und hält die Wertschöpfung im Quartier. Wir bauen die Software dafür. Offen, damit sie niemandem allein gehört und allen nützt.
+Offene Software für Gründung und Betrieb lokaler Elektrizitätsgemeinschaften (LEG) in der Schweiz. Eine LEG teilt Solarstrom vom eigenen Dach unter Haushalten, Gewerbe und Gemeinden. Die Plattform begleitet den Weg von der Gründung über die Übergabe an den VNB bis zum Smart-Meter-Import, zur Rechnungsfreigabe, zu Zahlungen und zum Archiv.
 
-## Woran wir festhalten
+Die LEG entscheidet selbst, wie sie sich organisiert, welche Verträge sie schliesst, welche internen Preise sie setzt und wo sie hostet. Anschlussberechtigung, Messung und die zugewiesenen Datenpflichten bleiben regulierte Aufgaben des VNB. Anbindungen an VNB-Systeme entstehen in lokaler Konfiguration, nicht als universelle End-to-End-Integration. Smart-Meter-Daten bleiben bei der LEG: nicht verkauft und nicht für Dritte aggregiert. Die Plattform ist auf Deutsch und Französisch verfügbar.
 
-- Möglichst viele LEGs, die wirklich laufen.
-- Möglichst viel Autarkie.
-- Möglichst tiefe Kosten für die Mitglieder.
-- Und eine harte Linie: Smart-Meter-Daten der Bürgerinnen und Bürger bleiben in der LEG. Wir verkaufen sie nicht und bündeln sie nicht für Dritte.
+**English**
 
-## Starte hier
+Open source software for founding and running local energy communities (LEG) in Switzerland: neighbours sharing rooftop solar between households, businesses and municipalities. The platform covers the path from formation through handover to the grid operator (VNB) to smart-meter import, invoice approval, payments and archive.
 
-| Du bist ... | Dann gehe zu |
-|-------------|--------------|
-| Bewohner oder möchtest eine LEG gründen | [openleg.ch/fuer-bewohner](https://openleg.ch/fuer-bewohner) |
-| Gemeinde | [openleg.ch/fuer-gemeinden](https://openleg.ch/fuer-gemeinden) |
-| LEG-Betreiber | [openleg.ch/leg-gruenden](https://openleg.ch/leg-gruenden) |
-| Entwickler oder Selbsthoster | [openleg.ch/open-source](https://openleg.ch/open-source) |
+The LEG decides how it organises itself, which contracts it signs, which internal prices it sets and where it hosts. Grid-access eligibility, metering and the assigned data duties remain regulated tasks of the VNB. Integrations with VNB systems are configured locally, not as a universal end-to-end connection. Smart-meter data stays with the LEG: it is not sold and not aggregated for third parties. The platform is available in German and French.
 
-## Mitmachen
+**Einstieg / Get started**
 
-Code, Daten, Doku: alles offen. Wer eine LEG plant, einen Fehler findet oder etwas beitragen will:
+- [Bewohner:innen / Residents](https://openleg.ch/fuer-bewohner)
+- [Gemeinden / Municipalities](https://openleg.ch/fuer-gemeinden)
+- [Betreibende / Operators](https://openleg.ch/dashboard)
+- [Mitwirkende / Contributors](https://github.com/Open-LEG-ch/openleg/blob/main/CONTRIBUTING.md)
 
-- [Issue öffnen](https://github.com/Open-LEG-ch/openleg/issues/new/choose)
-- [Frage per E-Mail stellen](mailto:hallo@openleg.ch)
-- [Pull Requests einreichen](https://github.com/Open-LEG-ch/openleg/blob/main/CONTRIBUTING.md)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Open-LEG-ch/openleg/main/static/images/product/leg-formation-static.webp" alt="Demo-Ansicht des LEG-Gründungsablaufs in OpenLEG" width="800"><br>
+  <em>Synthetische Demo-Ansicht, kein Live-System / synthetic demo view, not a live system.</em>
+</p>
 
-Das Hauptrepo ist [Open-LEG-ch/openleg](https://github.com/Open-LEG-ch/openleg). Die [README](https://github.com/Open-LEG-ch/openleg/blob/main/README.md) erklärt Aufbau und Schnellstart.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Open-LEG-ch/openleg/main/static/images/product/municipality-dashboard-static.webp" alt="Demo-Ansicht des Gemeinde-Dashboards mit ElCom-Tarifdaten" width="800"><br>
+  <em>Synthetische Demo-Ansicht, kein Live-System / synthetic demo view, not a live system.</em>
+</p>
 
----
+**Projekt / Project:** [Main repo](https://github.com/Open-LEG-ch/openleg) · [Architektur / Architecture](https://github.com/Open-LEG-ch/openleg/blob/main/docs/architecture.md) · [API](https://openleg.ch/api/v1/docs) · [Discussions](https://github.com/Open-LEG-ch/openleg/discussions) · [Roadmap](https://github.com/orgs/Open-LEG-ch/projects/1)
 
-# OpenLEG (English)
+**Kontakt / Contact:** [hallo@openleg.ch](mailto:hallo@openleg.ch) · [openleg.ch](https://openleg.ch)
 
-Neighbourhood power, shared fairly. [OpenLEG](https://openleg.ch) is free, open-source software for Swiss Local Electricity Communities (LEG).
-
-A LEG lets households, businesses and municipalities share rooftop solar directly instead of selling it cheap to the grid and buying it back expensive. Bills drop, value stays local. The software is open so no single party owns it.
-
-## What we stand by
-
-- More LEGs that actually run.
-- More energy autonomy.
-- Lower costs for members.
-- One hard line: citizen smart-meter data stays inside the LEG. We never sell it and never aggregate it for third parties.
-
-## Start here
-
-| You are ... | Start at |
-|-------------|----------|
-| A resident or want to found a LEG | [openleg.ch/fuer-bewohner](https://openleg.ch/fuer-bewohner) |
-| A municipality | [openleg.ch/fuer-gemeinden](https://openleg.ch/fuer-gemeinden) |
-| A LEG operator | [openleg.ch/leg-gruenden](https://openleg.ch/leg-gruenden) |
-| A developer or self-hoster | [openleg.ch/open-source](https://openleg.ch/open-source) |
-
-## Get involved
-
-Code, data and docs are open. Planning a LEG, spotted a bug or want to contribute?
-
-- [Open an issue](https://github.com/Open-LEG-ch/openleg/issues/new/choose)
-- [Ask by email](mailto:hallo@openleg.ch)
-- [Submit a pull request](https://github.com/Open-LEG-ch/openleg/blob/main/CONTRIBUTING.md)
-
-The main repo is [Open-LEG-ch/openleg](https://github.com/Open-LEG-ch/openleg). Its [README](https://github.com/Open-LEG-ch/openleg/blob/main/README.md) covers structure and quick start.
+**Lizenz / License:** AGPL-3.0-or-later
