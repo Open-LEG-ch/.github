@@ -35,7 +35,7 @@ The LEG decides how it organises itself, which contracts it signs, which interna
   <em>Synthetische Demo-Ansicht, kein Live-System / synthetic demo view, not a live system.</em>
 </p>
 
-**Projekt / Project:** [Main repo](https://github.com/Open-LEG-ch/openleg) · [Architektur / Architecture](https://github.com/Open-LEG-ch/openleg/blob/main/docs/architecture.md) · [API](https://openleg.ch/api/v1/docs) · [Discussions](https://github.com/Open-LEG-ch/openleg/discussions) · [Roadmap](https://github.com/orgs/Open-LEG-ch/projects/1)
+**Projekt / Project:** [Main repo](https://github.com/Open-LEG-ch/openleg) · [Architektur / Architecture](https://github.com/Open-LEG-ch/openleg/blob/main/docs/architecture.md) · [API](https://openleg.ch/api/v1/docs) · [Discussions](https://github.com/Open-LEG-ch/openleg/discussions) · [Release readiness](https://github.com/orgs/Open-LEG-ch/projects/1)
 
 **Kontakt / Contact:** [hallo@openleg.ch](mailto:hallo@openleg.ch) · [openleg.ch](https://openleg.ch)
 
