@@ -4,6 +4,8 @@
   <img src="https://raw.githubusercontent.com/Open-LEG-ch/openleg/main/.github/assets/openleg-wordmark.svg" alt="OpenLEG" width="320">
 </p>
 
+[![Test status](https://github.com/Open-LEG-ch/openleg/actions/workflows/deploy.yml/badge.svg)](https://github.com/Open-LEG-ch/openleg/actions/workflows/deploy.yml)
+
 **Deutsch**
 
 Offene Software für Gründung und Betrieb lokaler Elektrizitätsgemeinschaften (LEG) in der Schweiz. Eine LEG teilt Solarstrom vom eigenen Dach unter Haushalten, Gewerbe und Gemeinden. Die Plattform begleitet den Weg von der Gründung über die Übergabe an den VNB bis zum Smart-Meter-Import, zur Rechnungsfreigabe, zu Zahlungen und zum Archiv.
