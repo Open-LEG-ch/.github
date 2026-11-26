@@ -25,7 +25,7 @@ The LEG decides how it is organised, which contracts it signs, which internal pr
 
 - [Bewohner:innen / Residents](https://openleg.ch/fuer-bewohner)
 - [Gemeinden / Municipalities](https://openleg.ch/fuer-gemeinden)
-- [LEG-Betreibende / LEG operators](https://openleg.ch/leg/dashboard)
+- [LEG-Betreibende / LEG operators](https://openleg.ch/login)
 - [Mitwirkende / Contributors](https://github.com/Open-LEG-ch/openleg/blob/main/CONTRIBUTING.md)
 
 <p align="center">
